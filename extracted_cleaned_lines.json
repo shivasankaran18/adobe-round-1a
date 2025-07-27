@@ -13,8 +13,7 @@
         "page_number": 1,
         "line_length": 19,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "Working Together",
@@ -27,8 +26,7 @@
         "page_number": 1,
         "line_length": 16,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.9000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "RFP: R RFP: Request f quest f quest for Pr r Pr r Proposal oposal oposal",
@@ -41,8 +39,7 @@
         "page_number": 1,
         "line_length": 72,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: R RFP: R quest f r Pr oposal",
@@ -55,8 +52,7 @@
         "page_number": 1,
         "line_length": 33,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "To Present a Proposal for Developing",
@@ -69,8 +65,7 @@
         "page_number": 1,
         "line_length": 36,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "the Business Plan for the Ontario",
@@ -83,8 +78,7 @@
         "page_number": 1,
         "line_length": 33,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "Digital Library",
@@ -97,8 +91,7 @@
         "page_number": 1,
         "line_length": 15,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.6000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "March 21, 2003",
@@ -111,8 +104,7 @@
         "page_number": 1,
         "line_length": 14,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.6000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "The Ontario Digital Library will make Ontario a better place to study, work and live by ensuring that",
@@ -125,8 +117,7 @@
         "page_number": 1,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "all Ontario citizens have access to the knowledge and learning supports needed to be life-long",
@@ -139,8 +130,7 @@
         "page_number": 1,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "learners and effective contributors towards Ontario’s prosperity.",
@@ -153,8 +143,7 @@
         "page_number": 1,
         "line_length": 65,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       }
     ]
   },
@@ -172,8 +161,7 @@
         "page_number": 2,
         "line_length": 25,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "A Critical Component for Implementing Ontario’s Road Map to",
@@ -186,8 +174,7 @@
         "page_number": 2,
         "line_length": 59,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "Prosperity Strategy",
@@ -200,8 +187,7 @@
         "page_number": 2,
         "line_length": 19,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.9000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "Summary",
@@ -214,8 +200,7 @@
         "page_number": 2,
         "line_length": 7,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.9000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "The purpose of this Request for Proposal ( RFP ) is to invite firms and/or consultants to",
@@ -228,8 +213,7 @@
         "page_number": 2,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "present a proposal for developing the business plan for the Ontario Digital Library (ODL).",
@@ -242,8 +226,7 @@
         "page_number": 2,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "The ODL will deliver high-quality library electronic content to all Ontario residents in order to",
@@ -256,8 +239,7 @@
         "page_number": 2,
         "line_length": 97,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "assist people as they learn, work, and enhance their quality of life. The business plan to be",
@@ -270,8 +252,7 @@
         "page_number": 2,
         "line_length": 93,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "developed is to document and clearly communicate:",
@@ -284,8 +265,7 @@
         "page_number": 2,
         "line_length": 49,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 1.0
+        "line_case": "LOWER"
       },
       {
         "text": "how the ODL will be implemented, including the timeline",
@@ -298,8 +278,7 @@
         "page_number": 2,
         "line_length": 55,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "the financial plan for the implementation",
@@ -312,8 +291,7 @@
         "page_number": 2,
         "line_length": 41,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "the financial plan for the first 2 operating years, including capital and operating costs,",
@@ -326,8 +304,7 @@
         "page_number": 2,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "revenues, etc.",
@@ -340,8 +317,7 @@
         "page_number": 2,
         "line_length": 14,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "a financial forecast for the succeeding 2 operating years",
@@ -354,8 +330,7 @@
         "page_number": 2,
         "line_length": 57,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "the services and products to be delivered by the ODL",
@@ -368,8 +343,7 @@
         "page_number": 2,
         "line_length": 52,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "how the ODL will operate and be managed following the implementation",
@@ -382,8 +356,7 @@
         "page_number": 2,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "who will be involved, and what their role/responsibility will be, for both the",
@@ -396,8 +369,7 @@
         "page_number": 2,
         "line_length": 78,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "implementation and operational stages",
@@ -410,8 +382,7 @@
         "page_number": 2,
         "line_length": 37,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "the marketing and communications plan for the ODL",
@@ -424,8 +395,7 @@
         "page_number": 2,
         "line_length": 49,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "This business plan must be completed and approved by the ODL Steering Committee no",
@@ -438,8 +408,7 @@
         "page_number": 2,
         "line_length": 82,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "later than September 30, 2003",
@@ -452,8 +421,7 @@
         "page_number": 2,
         "line_length": 29,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "Timeline:",
@@ -466,8 +434,7 @@
         "page_number": 2,
         "line_length": 9,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 1.9
+        "line_case": "TITLE"
       },
       {
         "text": "Those firms/consultants intended to submit a proposal to this RFP must indicate their",
@@ -480,8 +447,7 @@
         "page_number": 2,
         "line_length": 85,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "th",
@@ -494,8 +460,7 @@
         "page_number": 2,
         "line_length": 2,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 1.3
+        "line_case": "LOWER"
       },
       {
         "text": "intention to do so in an e-mail to Michael Ridley ( mridley@uoguelph.ca ) by April 11 .",
@@ -508,8 +473,7 @@
         "page_number": 2,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore",
@@ -522,8 +486,7 @@
         "page_number": 2,
         "line_length": 69,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "( lmoore@accessola.com ), Executive Director, The Ontario Library Association,",
@@ -536,8 +499,7 @@
         "page_number": 2,
         "line_length": 78,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "100 Lombard",
@@ -550,8 +512,7 @@
         "page_number": 2,
         "line_length": 11,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.6000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "Proposals must be received by Noon on Monday,",
@@ -564,8 +525,7 @@
         "page_number": 2,
         "line_length": 45,
         "is_centered": true,
-        "line_case": "MIXED",
-        "heading_score": 2.5
+        "line_case": "MIXED"
       },
       {
         "text": "St., Suite 303, Toronto, ON  M5C 1M3.",
@@ -578,8 +538,7 @@
         "page_number": 2,
         "line_length": 37,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "April 21, 2003.",
@@ -592,8 +551,7 @@
         "page_number": 2,
         "line_length": 15,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 1.9
+        "line_case": "TITLE"
       },
       {
         "text": "Those proposals that are short-listed will be invited to discuss their proposal during the week",
@@ -606,8 +564,7 @@
         "page_number": 2,
         "line_length": 95,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "of April 28, 2003 . No presentation will be expected. Firms or consultants invited to an",
@@ -620,8 +577,7 @@
         "page_number": 2,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "interview will be expected to discuss the project and their approach with the selection",
@@ -634,8 +590,7 @@
         "page_number": 2,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "committee .",
@@ -648,8 +603,7 @@
         "page_number": 2,
         "line_length": 11,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "Contracts with the firm/consultant will be signed the week of May 5, 2003 with the work to",
@@ -662,8 +616,7 @@
         "page_number": 2,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "commence as soon as possible thereafter.",
@@ -676,8 +629,7 @@
         "page_number": 2,
         "line_length": 40,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "2",
@@ -690,8 +642,7 @@
         "page_number": 2,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -704,8 +655,7 @@
         "page_number": 2,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -723,8 +673,7 @@
         "page_number": 3,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "seek further response to these Terms of Reference.",
@@ -737,8 +686,7 @@
         "page_number": 3,
         "line_length": 50,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "If you require further information or have any questions, please contact Michael Ridley by e-",
@@ -751,8 +699,7 @@
         "page_number": 3,
         "line_length": 93,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "mail ( mridley@uoguelph.ca ) only by 3:00 p.m. on Friday April 18th . All questions and",
@@ -765,8 +712,7 @@
         "page_number": 3,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.6
+        "line_case": "MIXED"
       },
       {
         "text": "responses will be shared with those who have indicated that they will be submitting a",
@@ -779,8 +725,7 @@
         "page_number": 3,
         "line_length": 85,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael",
@@ -793,8 +738,7 @@
         "page_number": 3,
         "line_length": 92,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "th",
@@ -807,8 +751,7 @@
         "page_number": 3,
         "line_length": 2,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "Ridley by April 11 that they will be submitting a proposal will not receive any further",
@@ -821,8 +764,7 @@
         "page_number": 3,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "information or question responses.",
@@ -835,8 +777,7 @@
         "page_number": 3,
         "line_length": 34,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "Background",
@@ -849,8 +790,7 @@
         "page_number": 3,
         "line_length": 10,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.6000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "First, some background on the ODL. For the last two years the Ontario Library Association",
@@ -863,8 +803,7 @@
         "page_number": 3,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "has acted as a catalyst, bringing together the stakeholders needed to create the Ontario",
@@ -877,8 +816,7 @@
         "page_number": 3,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Digital Library (ODL). These stakeholders include Ontario’s 5000+ public libraries, university,",
@@ -891,8 +829,7 @@
         "page_number": 3,
         "line_length": 95,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "college, and school libraries, as well as Ontario government ministries.",
@@ -905,8 +842,7 @@
         "page_number": 3,
         "line_length": 72,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Libraries that serve very different clientele recognize that by working together they can create",
@@ -919,8 +855,7 @@
         "page_number": 3,
         "line_length": 96,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "seamless access to quality electronic library services. Through the ODL, students will be",
@@ -933,8 +868,7 @@
         "page_number": 3,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "able to explore a topic at school, use the same child-safe resources after school (either at",
@@ -947,8 +881,7 @@
         "page_number": 3,
         "line_length": 92,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "home or at a public library), enter college or university with a knowledge of how to use",
@@ -961,8 +894,7 @@
         "page_number": 3,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "electronic resources that are still available and then, after graduation, continue to use these",
@@ -975,8 +907,7 @@
         "page_number": 3,
         "line_length": 95,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "skills and resources at work or at home.",
@@ -989,8 +920,7 @@
         "page_number": 3,
         "line_length": 40,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "We are moving into a period of convergence. With convergence we no longer have to license",
@@ -1003,8 +933,7 @@
         "page_number": 3,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "commercial products as individual libraries or institutions. We can work together to spend our",
@@ -1017,8 +946,7 @@
         "page_number": 3,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "money wisely. The provincial government has made this possible by working hard to provide",
@@ -1031,8 +959,7 @@
         "page_number": 3,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "all Ontarians with a stable, high-speed communications infrastructure. While there is still a",
@@ -1045,8 +972,7 @@
         "page_number": 3,
         "line_length": 93,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "great deal of work needed to improve this infrastructure, libraries are beginning to plan how",
@@ -1059,8 +985,7 @@
         "page_number": 3,
         "line_length": 93,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "best to exploit communications technology. We can reduce barriers to access and create the",
@@ -1073,8 +998,7 @@
         "page_number": 3,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "content infrastructure needed to support a knowledge society.",
@@ -1087,8 +1011,7 @@
         "page_number": 3,
         "line_length": 61,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "The concept of an ODL is a key element in The Roadmap to Prosperity , a strategic plan to",
@@ -1101,8 +1024,7 @@
         "page_number": 3,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "envision and attain Ontario’s economic goal prepared by the Ontario Jobs and Investment",
@@ -1115,8 +1037,7 @@
         "page_number": 3,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Board. The OJIB strategic plan recommends an electronic library to “connect students to new",
@@ -1129,8 +1050,7 @@
         "page_number": 3,
         "line_length": 91,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "workplaces, new sources of information and applied learning opportunities”. The ODL will do",
@@ -1143,8 +1063,7 @@
         "page_number": 3,
         "line_length": 91,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "that and much more. The ODL will connect students to electronic information, and will also",
@@ -1157,8 +1076,7 @@
         "page_number": 3,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "leverage this investment to help connect all citizens to the electronic information they need as",
@@ -1171,8 +1089,7 @@
         "page_number": 3,
         "line_length": 96,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "they make decisions, solve problems and enhance their quality of life.",
@@ -1185,8 +1102,7 @@
         "page_number": 3,
         "line_length": 70,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "Libraries have long been a key delivery point for public services. The ODL will allow that",
@@ -1199,8 +1115,7 @@
         "page_number": 3,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "delivery point to move closer to citizens, into the smallest of libraries and even into living",
@@ -1213,8 +1128,7 @@
         "page_number": 3,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "rooms.",
@@ -1227,8 +1141,7 @@
         "page_number": 3,
         "line_length": 6,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "Libraries have a long tradition of using a practical, consultative approach to solving problems,",
@@ -1241,8 +1154,7 @@
         "page_number": 3,
         "line_length": 96,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "and of learning from others. The ODL is a very practical solution to various problems.",
@@ -1255,8 +1167,7 @@
         "page_number": 3,
         "line_length": 86,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is",
@@ -1269,8 +1180,7 @@
         "page_number": 3,
         "line_length": 91,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "leading edge for Ontario but several jurisdictions have forged the path with collaborative",
@@ -1283,8 +1193,7 @@
         "page_number": 3,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)",
@@ -1297,8 +1206,7 @@
         "page_number": 3,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "3",
@@ -1311,8 +1219,7 @@
         "page_number": 3,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -1325,8 +1232,7 @@
         "page_number": 3,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -1344,8 +1250,7 @@
         "page_number": 4,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "with its members to promote universal access to materials and resources in more than 250",
@@ -1358,8 +1263,7 @@
         "page_number": 4,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does",
@@ -1372,8 +1276,7 @@
         "page_number": 4,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "not include elementary or secondary schools. However, the timeline and funding we are",
@@ -1386,8 +1289,7 @@
         "page_number": 4,
         "line_length": 85,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several",
@@ -1400,8 +1302,7 @@
         "page_number": 4,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "years. TAL’s implementation plan was supported by 8 million dollars in provincially shared",
@@ -1414,8 +1315,7 @@
         "page_number": 4,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is",
@@ -1428,8 +1328,7 @@
         "page_number": 4,
         "line_length": 95,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "Alberta’s population 30% of Ontario’s, TAL does not include elementary or secondary",
@@ -1442,8 +1341,7 @@
         "page_number": 4,
         "line_length": 83,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "schools as partners; it has 250 member libraries. ODL envisions universal access for all",
@@ -1456,8 +1354,7 @@
         "page_number": 4,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "10,000,000 Ontarians, with more than 5000 Ontario libraries as partners. Although ODL can",
@@ -1470,8 +1367,7 @@
         "page_number": 4,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "learn from TAL’s practices, the scope of planning and implementing ODL is much larger than",
@@ -1484,8 +1380,7 @@
         "page_number": 4,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "TAL.",
@@ -1498,8 +1393,7 @@
         "page_number": 4,
         "line_length": 4,
         "is_centered": false,
-        "line_case": "UPPER",
-        "heading_score": 0.5
+        "line_case": "UPPER"
       },
       {
         "text": "The ODL will be a partnership-based organization providing seamless electronic information",
@@ -1512,8 +1406,7 @@
         "page_number": 4,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "services and resources to the citizens of Ontario. It will use local libraries as the entry point for",
@@ -1526,8 +1419,7 @@
         "page_number": 4,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "common resources The ODL will recognize the unique responsibilities and needs of public",
@@ -1540,8 +1432,7 @@
         "page_number": 4,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "libraries, school libraries, college and university libraries and special libraries. The ODL",
@@ -1554,8 +1445,7 @@
         "page_number": 4,
         "line_length": 92,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "envisions a digital network of information resources, allowing members to collaborate when",
@@ -1568,8 +1458,7 @@
         "page_number": 4,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "there is mutual benefit and to support the common mandates of local libraries.",
@@ -1582,8 +1471,7 @@
         "page_number": 4,
         "line_length": 78,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "The principles which will define and guide the ODL are:",
@@ -1596,8 +1484,7 @@
         "page_number": 4,
         "line_length": 55,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.0
+        "line_case": "MIXED"
       },
       {
         "text": "Equitable access for all Ontarians:",
@@ -1610,8 +1497,7 @@
         "page_number": 4,
         "line_length": 35,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "We will bring consistent, high-quality electronic resources and services to 10 million",
@@ -1624,8 +1510,7 @@
         "page_number": 4,
         "line_length": 86,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Ontario citizens",
@@ -1638,8 +1523,7 @@
         "page_number": 4,
         "line_length": 16,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "We will eliminate barriers to the access to information and create more consistent",
@@ -1652,8 +1536,7 @@
         "page_number": 4,
         "line_length": 82,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "services for library clients.",
@@ -1666,8 +1549,7 @@
         "page_number": 4,
         "line_length": 29,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "Shared decision-making and accountability:",
@@ -1680,8 +1562,7 @@
         "page_number": 4,
         "line_length": 42,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "We will facilitate consensus among members regarding ODL’s portfolio of electronic",
@@ -1694,8 +1575,7 @@
         "page_number": 4,
         "line_length": 82,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "licenses and services",
@@ -1708,8 +1588,7 @@
         "page_number": 4,
         "line_length": 21,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "We will balance the interests and realities of small and large as well as rich and poor",
@@ -1722,8 +1601,7 @@
         "page_number": 4,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "communities and institutions.",
@@ -1736,8 +1614,7 @@
         "page_number": 4,
         "line_length": 29,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "Shared governance structure:",
@@ -1750,8 +1627,7 @@
         "page_number": 4,
         "line_length": 28,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "We will share decision-making in order to enable the people we serve.",
@@ -1764,8 +1640,7 @@
         "page_number": 4,
         "line_length": 69,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "We will work based on an underlying assumption of trust and synergy.",
@@ -1778,8 +1653,7 @@
         "page_number": 4,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Shared funding:",
@@ -1792,8 +1666,7 @@
         "page_number": 4,
         "line_length": 15,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "We will leverage provincial, institutional, and local dollars to realize economies of scale",
@@ -1806,8 +1679,7 @@
         "page_number": 4,
         "line_length": 91,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "and put Ontario dollars to work for everyone .",
@@ -1820,8 +1692,7 @@
         "page_number": 4,
         "line_length": 46,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       },
       {
         "text": "We will be willing to pool talents and dollars in order to provide common services that are",
@@ -1834,8 +1705,7 @@
         "page_number": 4,
         "line_length": 91,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "truly greater than those that can be maintained by individual institutions.",
@@ -1848,8 +1718,7 @@
         "page_number": 4,
         "line_length": 75,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "4",
@@ -1862,8 +1731,7 @@
         "page_number": 4,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -1876,8 +1744,7 @@
         "page_number": 4,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -1895,8 +1762,7 @@
         "page_number": 5,
         "line_length": 22,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.5999999999999996
+        "line_case": "MIXED"
       },
       {
         "text": "We will provide the licenses, infrastructure, services and support that enable local",
@@ -1909,8 +1775,7 @@
         "page_number": 5,
         "line_length": 84,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "libraries to provide exceptional services to their clientele. ODL will focus on support,",
@@ -1923,8 +1788,7 @@
         "page_number": 5,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "providing the underpinning, not overshadowing.",
@@ -1937,8 +1801,7 @@
         "page_number": 5,
         "line_length": 46,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "Services envisioned for the ODL’s include:",
@@ -1951,8 +1814,7 @@
         "page_number": 5,
         "line_length": 42,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       },
       {
         "text": "Access:",
@@ -1965,8 +1827,7 @@
         "page_number": 5,
         "line_length": 7,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 3.1999999999999997
+        "line_case": "TITLE"
       },
       {
         "text": "to the “deep” web (i.e. Commercial, purchased electronic services)",
@@ -1979,8 +1840,7 @@
         "page_number": 5,
         "line_length": 66,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "to credible web sites and electronic resources",
@@ -1993,8 +1853,7 @@
         "page_number": 5,
         "line_length": 46,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "to digital government information",
@@ -2007,8 +1866,7 @@
         "page_number": 5,
         "line_length": 33,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "to local digital collections",
@@ -2021,8 +1879,7 @@
         "page_number": 5,
         "line_length": 28,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "Guidance and Advice:",
@@ -2035,8 +1892,7 @@
         "page_number": 5,
         "line_length": 20,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "to support e-learning",
@@ -2049,8 +1905,7 @@
         "page_number": 5,
         "line_length": 21,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "to support citizens, in real-time, as they try to use electronic resources",
@@ -2063,8 +1918,7 @@
         "page_number": 5,
         "line_length": 74,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "to assist citizens as they use web-links",
@@ -2077,8 +1931,7 @@
         "page_number": 5,
         "line_length": 40,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "Training:",
@@ -2091,8 +1944,7 @@
         "page_number": 5,
         "line_length": 9,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 2.9
+        "line_case": "TITLE"
       },
       {
         "text": "for library workers",
@@ -2105,8 +1957,7 @@
         "page_number": 5,
         "line_length": 19,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "for the general public",
@@ -2119,8 +1970,7 @@
         "page_number": 5,
         "line_length": 22,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "Provincial Purchasing & Licensing:",
@@ -2133,8 +1983,7 @@
         "page_number": 5,
         "line_length": 34,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 2.9
+        "line_case": "TITLE"
       },
       {
         "text": "of electronic content on a consortia basis for all member libraries",
@@ -2147,8 +1996,7 @@
         "page_number": 5,
         "line_length": 67,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "Technological Support:",
@@ -2161,8 +2009,7 @@
         "page_number": 5,
         "line_length": 22,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 2.9
+        "line_case": "TITLE"
       },
       {
         "text": "of common standards for the preservation and archiving local digital content",
@@ -2175,8 +2022,7 @@
         "page_number": 5,
         "line_length": 76,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "of a common interface to ODL resources and services that can be imbedded in local",
@@ -2189,8 +2035,7 @@
         "page_number": 5,
         "line_length": 81,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "library web sites",
@@ -2203,8 +2048,7 @@
         "page_number": 5,
         "line_length": 17,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "What could the ODL really mean?",
@@ -2217,8 +2061,7 @@
         "page_number": 5,
         "line_length": 31,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "For each Ontario citizen it could mean:",
@@ -2231,8 +2074,7 @@
         "page_number": 5,
         "line_length": 39,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.0
+        "line_case": "MIXED"
       },
       {
         "text": "One local point of entry to access seamless electronic library services and",
@@ -2245,8 +2087,7 @@
         "page_number": 5,
         "line_length": 75,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "resources for their personal, educational and professional needs;",
@@ -2259,8 +2100,7 @@
         "page_number": 5,
         "line_length": 65,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "Access to credible, high-quality, user-friendly electronic services through their",
@@ -2273,8 +2113,7 @@
         "page_number": 5,
         "line_length": 81,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "community, school, or academic library;",
@@ -2287,8 +2126,7 @@
         "page_number": 5,
         "line_length": 39,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "Confidence that the electronic services and sources they – and their children",
@@ -2301,8 +2139,7 @@
         "page_number": 5,
         "line_length": 77,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "– are using are safe, valid, and bringing them both global and local",
@@ -2315,8 +2152,7 @@
         "page_number": 5,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "perspectives;",
@@ -2329,8 +2165,7 @@
         "page_number": 5,
         "line_length": 13,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "Electronic information and tools that enhance job skills and the learning",
@@ -2343,8 +2178,7 @@
         "page_number": 5,
         "line_length": 73,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "experience",
@@ -2357,8 +2191,7 @@
         "page_number": 5,
         "line_length": 10,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "For each Ontario student it could mean:",
@@ -2371,8 +2204,7 @@
         "page_number": 5,
         "line_length": 39,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.0
+        "line_case": "MIXED"
       },
       {
         "text": "One local point of entry to quality, curriculum- based electronic information",
@@ -2385,8 +2217,7 @@
         "page_number": 5,
         "line_length": 77,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "resources and services",
@@ -2399,8 +2230,7 @@
         "page_number": 5,
         "line_length": 22,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "Connection to their individual educational environment, whether at the",
@@ -2413,8 +2243,7 @@
         "page_number": 5,
         "line_length": 70,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "elementary, secondary or post-secondary levels",
@@ -2427,8 +2256,7 @@
         "page_number": 5,
         "line_length": 46,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "5",
@@ -2441,8 +2269,7 @@
         "page_number": 5,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -2455,8 +2282,7 @@
         "page_number": 5,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -2474,8 +2300,7 @@
         "page_number": 6,
         "line_length": 73,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "available when they need them and adaptable to different learning styles",
@@ -2488,8 +2313,7 @@
         "page_number": 6,
         "line_length": 72,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "For each Ontario library it could mean:",
@@ -2502,8 +2326,7 @@
         "page_number": 6,
         "line_length": 39,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "One point of entry for themselves and their clientele to quality electronic",
@@ -2516,8 +2339,7 @@
         "page_number": 6,
         "line_length": 75,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "resources and services that support and enhance their collections, programs",
@@ -2530,8 +2352,7 @@
         "page_number": 6,
         "line_length": 75,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "and services",
@@ -2544,8 +2365,7 @@
         "page_number": 6,
         "line_length": 12,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "The opportunity to show case their local community, collections, services, and",
@@ -2558,8 +2378,7 @@
         "page_number": 6,
         "line_length": 78,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "expertise",
@@ -2572,8 +2391,7 @@
         "page_number": 6,
         "line_length": 9,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "The opportunity to gain from the provincial, collaborative partnership in order",
@@ -2586,8 +2404,7 @@
         "page_number": 6,
         "line_length": 79,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "to provide a seamless gateway to digital resources and services",
@@ -2600,8 +2417,7 @@
         "page_number": 6,
         "line_length": 63,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "For the Ontario government it could mean:",
@@ -2614,8 +2430,7 @@
         "page_number": 6,
         "line_length": 41,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.0
+        "line_case": "MIXED"
       },
       {
         "text": "A point of entry to information services and resources for all Ontario citizens,",
@@ -2628,8 +2443,7 @@
         "page_number": 6,
         "line_length": 80,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "connecting to portal initiatives .",
@@ -2642,8 +2456,7 @@
         "page_number": 6,
         "line_length": 34,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "Support of the Ontario E-Learning strategy through a collaborative digital",
@@ -2656,8 +2469,7 @@
         "page_number": 6,
         "line_length": 74,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "library initiative that positions Ontario on the global e-learning scene",
@@ -2670,8 +2482,7 @@
         "page_number": 6,
         "line_length": 72,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Improved access and flexibility for all students at all ages and stages",
@@ -2684,8 +2495,7 @@
         "page_number": 6,
         "line_length": 71,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "(supports Ontario’s lifelong learning strategy)",
@@ -2698,8 +2508,7 @@
         "page_number": 6,
         "line_length": 47,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "The opportunity to address emerging job skills shortages and facilitate school",
@@ -2712,8 +2521,7 @@
         "page_number": 6,
         "line_length": 78,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "to work and job to job transitions with the necessary information and",
@@ -2726,8 +2534,7 @@
         "page_number": 6,
         "line_length": 69,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "knowledge supports and tools",
@@ -2740,8 +2547,7 @@
         "page_number": 6,
         "line_length": 28,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "ODL will be an incorporated non-profit organization governed by a Board of Directors elected",
@@ -2754,8 +2560,7 @@
         "page_number": 6,
         "line_length": 92,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "by a voting membership. The Board will include representatives from all stakeholders. We",
@@ -2768,8 +2573,7 @@
         "page_number": 6,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "envision a governance model similar to that prepared for the province’s ORION network.",
@@ -2782,8 +2586,7 @@
         "page_number": 6,
         "line_length": 86,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "More information regarding the envisioned phasing, funding and resources required for the",
@@ -2796,8 +2599,7 @@
         "page_number": 6,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "ODL can be found in the appendixes.",
@@ -2810,8 +2612,7 @@
         "page_number": 6,
         "line_length": 35,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "The Business Plan to be Developed",
@@ -2824,8 +2625,7 @@
         "page_number": 6,
         "line_length": 33,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "The business plan which needs to be developed for the ODL must be a formal business plan",
@@ -2838,8 +2638,7 @@
         "page_number": 6,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "that documents and clearly communicates the ODL’s services, funding and governance",
@@ -2852,8 +2651,7 @@
         "page_number": 6,
         "line_length": 82,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "structures, as well as implementation plans for 2004-2005, and operational plans for 2005-",
@@ -2866,8 +2664,7 @@
         "page_number": 6,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "2007. The planning process must also secure the full commitment of all stakeholders, as",
@@ -2880,8 +2677,7 @@
         "page_number": 6,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.0
+        "line_case": "MIXED"
       },
       {
         "text": "represented on the Steering Committee.",
@@ -2894,8 +2690,7 @@
         "page_number": 6,
         "line_length": 38,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "Specifically, the business plan must include:",
@@ -2908,8 +2703,7 @@
         "page_number": 6,
         "line_length": 45,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.0
+        "line_case": "MIXED"
       },
       {
         "text": "how the ODL will be implemented, including the timeline",
@@ -2922,8 +2716,7 @@
         "page_number": 6,
         "line_length": 55,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "the financial plan for the implementation",
@@ -2936,8 +2729,7 @@
         "page_number": 6,
         "line_length": 41,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "the financial plan for the first 2 operating years, including capital and operating costs,",
@@ -2950,8 +2742,7 @@
         "page_number": 6,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "revenues, etc.",
@@ -2964,8 +2755,7 @@
         "page_number": 6,
         "line_length": 14,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "a financial forecast for the succeeding 2 operating years",
@@ -2978,8 +2768,7 @@
         "page_number": 6,
         "line_length": 57,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "the services and products to be delivered by the ODL",
@@ -2992,8 +2781,7 @@
         "page_number": 6,
         "line_length": 52,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "how the ODL will operate and be managed following the implementation",
@@ -3006,8 +2794,7 @@
         "page_number": 6,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "who will be involved, and what their role/responsibility will be, for both the",
@@ -3020,8 +2807,7 @@
         "page_number": 6,
         "line_length": 78,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "implementation and operational stages",
@@ -3034,8 +2820,7 @@
         "page_number": 6,
         "line_length": 37,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "6",
@@ -3048,8 +2833,7 @@
         "page_number": 6,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -3062,8 +2846,7 @@
         "page_number": 6,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -3081,8 +2864,7 @@
         "page_number": 7,
         "line_length": 49,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "the commitment of all stakeholders to their responsibilities",
@@ -3095,8 +2877,7 @@
         "page_number": 7,
         "line_length": 60,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "The process of developing this business plan must be extremely consultative to ensure that",
@@ -3109,8 +2890,7 @@
         "page_number": 7,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "all stakeholders are engaged in creating a synergistic ODL organization. The proposal must",
@@ -3123,8 +2903,7 @@
         "page_number": 7,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.09999999999999998
+        "line_case": "MIXED"
       },
       {
         "text": "indicate how this consultative process will be approached.",
@@ -3137,8 +2916,7 @@
         "page_number": 7,
         "line_length": 58,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.6000000000000001
+        "line_case": "LOWER"
       },
       {
         "text": "The business plan for the ODL must address significant issues. There are, for example,",
@@ -3151,8 +2929,7 @@
         "page_number": 7,
         "line_length": 86,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "enormous differences in the financial resources available to libraries mandated to provide",
@@ -3165,8 +2942,7 @@
         "page_number": 7,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "similar services. Some post-secondary and public libraries, particularly those in large urban",
@@ -3179,8 +2955,7 @@
         "page_number": 7,
         "line_length": 93,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "areas, have the facilities, funding and technological infrastructure necessary to service their",
@@ -3193,8 +2968,7 @@
         "page_number": 7,
         "line_length": 95,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "patrons with electronic services and resources.  Many others, particularly in rural regions, do",
@@ -3207,8 +2981,7 @@
         "page_number": 7,
         "line_length": 95,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "not. The proposal must indicate how these issues will be approached.",
@@ -3221,8 +2994,7 @@
         "page_number": 7,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "Milestones",
@@ -3235,8 +3007,7 @@
         "page_number": 7,
         "line_length": 10,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.6000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "1) A preliminary report will be issued during June 2003.",
@@ -3249,8 +3020,7 @@
         "page_number": 7,
         "line_length": 56,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.8
+        "line_case": "MIXED"
       },
       {
         "text": "2) It is expected that an Interim Report, suitable for distribution to the broader library",
@@ -3263,8 +3033,7 @@
         "page_number": 7,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "community will be available by August 1, 2003 and that there will be an opportunity",
@@ -3277,8 +3046,7 @@
         "page_number": 7,
         "line_length": 83,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "for responses to be evaluated.",
@@ -3291,8 +3059,7 @@
         "page_number": 7,
         "line_length": 30,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "3) The business plan must be completed and approved by the ODL Steering Committee",
@@ -3305,8 +3072,7 @@
         "page_number": 7,
         "line_length": 81,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "no later than September 30, 2003.",
@@ -3319,8 +3085,7 @@
         "page_number": 7,
         "line_length": 33,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "Approach and Specific Proposal Requirements",
@@ -3333,8 +3098,7 @@
         "page_number": 7,
         "line_length": 43,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "The firm/consultant (or proposed team of consultants) will be expected to work closely with",
@@ -3347,8 +3111,7 @@
         "page_number": 7,
         "line_length": 91,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "the ODL Steering Committee. Terms of reference for the Committee are in the appendix.",
@@ -3361,8 +3124,7 @@
         "page_number": 7,
         "line_length": 85,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Given the consultative nature of this business planning process, the firm/consultant will also",
@@ -3375,8 +3137,7 @@
         "page_number": 7,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "be expected to travel and communicate regularly with various stakeholders as well as with",
@@ -3389,8 +3150,7 @@
         "page_number": 7,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "electronic resource publishers/vendors.",
@@ -3403,8 +3163,7 @@
         "page_number": 7,
         "line_length": 39,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "The proposal should include the following information:",
@@ -3417,8 +3176,7 @@
         "page_number": 7,
         "line_length": 54,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.0
+        "line_case": "MIXED"
       },
       {
         "text": "a) name of the firm/consultant",
@@ -3431,8 +3189,7 @@
         "page_number": 7,
         "line_length": 30,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "b) names of those individuals who will be engaged in this project, their specific",
@@ -3445,8 +3202,7 @@
         "page_number": 7,
         "line_length": 81,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "responsibilities on this project and relevant experience/qualifications",
@@ -3459,8 +3215,7 @@
         "page_number": 7,
         "line_length": 71,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "c) description of similar engagements that highlight the firm’s experience in business",
@@ -3473,8 +3228,7 @@
         "page_number": 7,
         "line_length": 86,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "planning and building stakeholder commitment",
@@ -3487,8 +3241,7 @@
         "page_number": 7,
         "line_length": 44,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "d) references with details of work completed for these references",
@@ -3501,8 +3254,7 @@
         "page_number": 7,
         "line_length": 65,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "e) description of the approach that will be used for completing the business plan,",
@@ -3515,8 +3267,7 @@
         "page_number": 7,
         "line_length": 82,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "including a timeline",
@@ -3529,8 +3280,7 @@
         "page_number": 7,
         "line_length": 20,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "f) cost to complete the study including estimated expenses (i.e.: travel, etc.) and payment",
@@ -3543,8 +3293,7 @@
         "page_number": 7,
         "line_length": 91,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "structure",
@@ -3557,8 +3306,7 @@
         "page_number": 7,
         "line_length": 9,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "7",
@@ -3571,8 +3319,7 @@
         "page_number": 7,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -3585,8 +3332,7 @@
         "page_number": 7,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -3604,8 +3350,7 @@
         "page_number": 8,
         "line_length": 35,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "The contract will be awarded to the bidder whose submission offers the best value; the contract will",
@@ -3618,8 +3363,7 @@
         "page_number": 8,
         "line_length": 100,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "not necessarily be awarded to the lowest bidder. We reserve the right not to award the contract to",
@@ -3632,8 +3376,7 @@
         "page_number": 8,
         "line_length": 98,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "any of the bidders responding to this RFP and we may seek further response.",
@@ -3646,8 +3389,7 @@
         "page_number": 8,
         "line_length": 75,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "Specifically, proposals will be evaluated proposals according to the following criteria:",
@@ -3660,8 +3402,7 @@
         "page_number": 8,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "Quality of the proposal /approach outlined for undertaking the business planning process",
@@ -3674,8 +3415,7 @@
         "page_number": 8,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Demonstrated experience",
@@ -3688,8 +3428,7 @@
         "page_number": 8,
         "line_length": 23,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "Cost, including expenses",
@@ -3702,8 +3441,7 @@
         "page_number": 8,
         "line_length": 24,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "Timeline and projected completion date",
@@ -3716,8 +3454,7 @@
         "page_number": 8,
         "line_length": 38,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "Other relevant factors as determined by the ODL Steering Committee",
@@ -3730,8 +3467,7 @@
         "page_number": 8,
         "line_length": 66,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Questions regarding this RFP should be directed by e-mail only to Michael Ridley",
@@ -3744,8 +3480,7 @@
         "page_number": 8,
         "line_length": 80,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "(mridley@uoguelph.ca).",
@@ -3758,8 +3493,7 @@
         "page_number": 8,
         "line_length": 22,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering",
@@ -3772,8 +3506,7 @@
         "page_number": 8,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Committee.",
@@ -3786,8 +3519,7 @@
         "page_number": 8,
         "line_length": 10,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.6000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "8",
@@ -3800,8 +3532,7 @@
         "page_number": 8,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -3814,8 +3545,7 @@
         "page_number": 8,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -3833,8 +3563,7 @@
         "page_number": 9,
         "line_length": 44,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "Phase I:  Business Planning",
@@ -3847,8 +3576,7 @@
         "page_number": 9,
         "line_length": 27,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 3.0999999999999996
+        "line_case": "TITLE"
       },
       {
         "text": "Timeline: March 2003 – September 2003",
@@ -3861,8 +3589,7 @@
         "page_number": 9,
         "line_length": 37,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 2.6999999999999997
+        "line_case": "TITLE"
       },
       {
         "text": "Funding Requested: ~$100,000 jointly funded by stakeholder groups and the provincial government.",
@@ -3875,8 +3602,7 @@
         "page_number": 9,
         "line_length": 96,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.6
+        "line_case": "MIXED"
       },
       {
         "text": "Result: The ODL business plan",
@@ -3889,8 +3615,7 @@
         "page_number": 9,
         "line_length": 29,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.0999999999999996
+        "line_case": "MIXED"
       },
       {
         "text": "The first phase will be to build the ODL business plan. This plan will clearly define the ODL’s services,",
@@ -3903,8 +3628,7 @@
         "page_number": 9,
         "line_length": 105,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "funding and governance structures, as well as implementation plans for 2003-2005. It will also secure",
@@ -3917,8 +3641,7 @@
         "page_number": 9,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "the full commitment of all stakeholders and scope the operational plan for ODL for 2006 and beyond.",
@@ -3931,8 +3654,7 @@
         "page_number": 9,
         "line_length": 99,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Given the number and diversity of stakeholders involved, the business planning process must be a fully",
@@ -3945,8 +3667,7 @@
         "page_number": 9,
         "line_length": 102,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "consultative approach. To ensure that the planning results in a workable plan with the full commitment",
@@ -3959,8 +3680,7 @@
         "page_number": 9,
         "line_length": 102,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "of all stakeholders it must have competent, dedicated staffing and monies for the travel and",
@@ -3973,8 +3693,7 @@
         "page_number": 9,
         "line_length": 92,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "communication components so critical in a consultative process.",
@@ -3987,8 +3706,7 @@
         "page_number": 9,
         "line_length": 63,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "Phase II: Implementing and Transitioning",
@@ -4001,8 +3719,7 @@
         "page_number": 9,
         "line_length": 40,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.2
+        "line_case": "MIXED"
       },
       {
         "text": "Timeline: April 2004 – December 2006",
@@ -4015,8 +3732,7 @@
         "page_number": 9,
         "line_length": 36,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 2.4
+        "line_case": "TITLE"
       },
       {
         "text": "Funding Requested: Funding from other states and provinces suggest that the ODL could receive",
@@ -4029,8 +3745,7 @@
         "page_number": 9,
         "line_length": 93,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       },
       {
         "text": "funding of up to $50 Million (over 3 years). Funding to be provided partnership of government, library",
@@ -4043,8 +3758,7 @@
         "page_number": 9,
         "line_length": 102,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "stakeholders and other interested parties.",
@@ -4057,8 +3771,7 @@
         "page_number": 9,
         "line_length": 42,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "Result: The ODL is implemented and validated",
@@ -4071,8 +3784,7 @@
         "page_number": 9,
         "line_length": 44,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.7999999999999998
+        "line_case": "MIXED"
       },
       {
         "text": "The second phase will be to implement the ODL based on the business plan. This phase recognizes",
@@ -4085,8 +3797,7 @@
         "page_number": 9,
         "line_length": 95,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "that for ODL to be optimally successful libraries must transition to a new way of doing business and",
@@ -4099,8 +3810,7 @@
         "page_number": 9,
         "line_length": 100,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "providing services. The transition must occur while libraries continue to provide existing services and",
@@ -4113,8 +3823,7 @@
         "page_number": 9,
         "line_length": 103,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "respond to current challenges. This implementation phase will funded by a partnership of government,",
@@ -4127,8 +3836,7 @@
         "page_number": 9,
         "line_length": 100,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "library stakeholders and other interested parties as a means to quickly jumpstart the ODL.",
@@ -4141,8 +3849,7 @@
         "page_number": 9,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "The seed money requested will allow libraries to realign their budgets and services as the infrastructure",
@@ -4155,8 +3862,7 @@
         "page_number": 9,
         "line_length": 105,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "and content of the ODL is created and secured. Some of the funding will be new money, although there",
@@ -4169,8 +3875,7 @@
         "page_number": 9,
         "line_length": 100,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "is every indication that existing budgets and methods of operating may be modified as a result of",
@@ -4183,8 +3888,7 @@
         "page_number": 9,
         "line_length": 97,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "recommendations . During this phase the polices, procedures, governance structures and accountability",
@@ -4197,8 +3901,7 @@
         "page_number": 9,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "mechanisms of the ODL will be put in place. Pilot projects will be initiated, evaluated and expanded.",
@@ -4211,8 +3914,7 @@
         "page_number": 9,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Information resources will be identified, contracts for these resources will be negotiated and resources",
@@ -4225,8 +3927,7 @@
         "page_number": 9,
         "line_length": 104,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "will be made deployed through the ODL. Regular evaluation during this phase will ensure the ODL is",
@@ -4239,8 +3940,7 @@
         "page_number": 9,
         "line_length": 98,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "achieving its objectives and is accountable to its key communities.",
@@ -4253,8 +3953,7 @@
         "page_number": 9,
         "line_length": 67,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "Phase III: Operating and Growing the ODL",
@@ -4267,8 +3966,7 @@
         "page_number": 9,
         "line_length": 40,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.2
+        "line_case": "MIXED"
       },
       {
         "text": "Timeline: January 2007 -",
@@ -4281,8 +3979,7 @@
         "page_number": 9,
         "line_length": 24,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 2.4
+        "line_case": "TITLE"
       },
       {
         "text": "Funding: $50 Million annually ($35 Million requested from government)",
@@ -4295,8 +3992,7 @@
         "page_number": 9,
         "line_length": 69,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       },
       {
         "text": "Result: The ODL is fully operational and sustainable",
@@ -4309,8 +4005,7 @@
         "page_number": 9,
         "line_length": 52,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.7999999999999998
+        "line_case": "MIXED"
       },
       {
         "text": "In the third phase the ODL moves into the operational stage. Ontarians will experience the full benefits",
@@ -4323,8 +4018,7 @@
         "page_number": 9,
         "line_length": 104,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "of the initiative and libraries will consolidate support around the ODL to grow resources and extend",
@@ -4337,8 +4031,7 @@
         "page_number": 9,
         "line_length": 100,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "9",
@@ -4351,8 +4044,7 @@
         "page_number": 9,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -4365,8 +4057,7 @@
         "page_number": 9,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -4384,8 +4075,7 @@
         "page_number": 10,
         "line_length": 106,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "to enhance the ODL.",
@@ -4398,8 +4088,7 @@
         "page_number": 10,
         "line_length": 19,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "The ongoing funding of the ODL will be based on a partnership model involving all the key participants",
@@ -4412,8 +4101,7 @@
         "page_number": 10,
         "line_length": 102,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "(i.e. government, libraries, donors, public and private sectors). All participants (i.e. beneficiaries) are",
@@ -4426,8 +4114,7 @@
         "page_number": 10,
         "line_length": 107,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "expected to make financial contributions to the ODL. It is important in achieving the full impact of the",
@@ -4440,8 +4127,7 @@
         "page_number": 10,
         "line_length": 104,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "ODL on Ontario’s economy, society and learning support that all library sectors are participants",
@@ -4454,8 +4140,7 @@
         "page_number": 10,
         "line_length": 96,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "(university, colleges, public libraries and schools).",
@@ -4468,8 +4153,7 @@
         "page_number": 10,
         "line_length": 53,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.30000000000000004
+        "line_case": "LOWER"
       },
       {
         "text": "The proposed funding model requires a continuing government investment, but also recognizes that as",
@@ -4482,8 +4166,7 @@
         "page_number": 10,
         "line_length": 99,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "the ODL matures a growing share of ODL funding will come from libraries and non-governmental",
@@ -4496,8 +4179,7 @@
         "page_number": 10,
         "line_length": 92,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "sources. During the 3-year implementation phase (2004 – 2006) libraries will realign their budgets to",
@@ -4510,8 +4192,7 @@
         "page_number": 10,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "enable ongoing funding contributions to ODL. During the same period ODL must build the proposed",
@@ -4524,8 +4205,7 @@
         "page_number": 10,
         "line_length": 95,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "endowment and secure public and private sector gifts and/or in-kind contributions. The following chart",
@@ -4538,8 +4218,7 @@
         "page_number": 10,
         "line_length": 102,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "outlines the model. This model is based on these assumptions:",
@@ -4552,8 +4231,7 @@
         "page_number": 10,
         "line_length": 61,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "1. that ODL expenditures will increase by 50% over a 10 year period",
@@ -4566,8 +4244,7 @@
         "page_number": 10,
         "line_length": 67,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.0
+        "line_case": "MIXED"
       },
       {
         "text": "2. that government funding will decrease from 70% to 45% during that 10 year period",
@@ -4580,8 +4257,7 @@
         "page_number": 10,
         "line_length": 83,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 2.0
+        "line_case": "LOWER"
       },
       {
         "text": "3. that library contributions, endowment and gifts/in-kind funding will increase from 30% to 55%",
@@ -4594,8 +4270,7 @@
         "page_number": 10,
         "line_length": 96,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 2.0
+        "line_case": "LOWER"
       },
       {
         "text": "during the same period",
@@ -4608,8 +4283,7 @@
         "page_number": 10,
         "line_length": 22,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "OVERVIEW OF ODL FUNDING MODEL",
@@ -4622,8 +4296,7 @@
         "page_number": 10,
         "line_length": 29,
         "is_centered": false,
-        "line_case": "UPPER",
-        "heading_score": 1.5
+        "line_case": "UPPER"
       },
       {
         "text": "Funding Source 2007 2017",
@@ -4636,8 +4309,7 @@
         "page_number": 10,
         "line_length": 24,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 1.6
+        "line_case": "TITLE"
       },
       {
         "text": "Government $35M (70%) $33.75M (45%)",
@@ -4650,8 +4322,7 @@
         "page_number": 10,
         "line_length": 35,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.6000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "Libraries $10M (20%) $22.5M (30%)",
@@ -4664,8 +4335,7 @@
         "page_number": 10,
         "line_length": 33,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.6000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "Endowment $4.5M (9%) $15M (20%)",
@@ -4678,8 +4348,7 @@
         "page_number": 10,
         "line_length": 31,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.6000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "Gifts/In-Kind $0.5M (1%) $3.75M (5%)",
@@ -4692,8 +4361,7 @@
         "page_number": 10,
         "line_length": 36,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 0.6000000000000001
+        "line_case": "TITLE"
       },
       {
         "text": "TOTAL ANNUAL",
@@ -4706,8 +4374,7 @@
         "page_number": 10,
         "line_length": 12,
         "is_centered": false,
-        "line_case": "UPPER",
-        "heading_score": 1.5
+        "line_case": "UPPER"
       },
       {
         "text": "$50M $75M",
@@ -4720,8 +4387,7 @@
         "page_number": 10,
         "line_length": 9,
         "is_centered": true,
-        "line_case": "UPPER",
-        "heading_score": 1.7000000000000002
+        "line_case": "UPPER"
       },
       {
         "text": "While the private sector will be invited to participate in the ODL through the endowment, gifts and in-",
@@ -4734,8 +4400,7 @@
         "page_number": 10,
         "line_length": 103,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "kind contributions, the ODL will also explore compatible commercial services which leverage the reach",
@@ -4748,8 +4413,7 @@
         "page_number": 10,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "of the ODL and help to offset operating costs.",
@@ -4762,8 +4426,7 @@
         "page_number": 10,
         "line_length": 46,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "A $50M budget leverages the consortium buying power of the province’s libraries to secure the best",
@@ -4776,8 +4439,7 @@
         "page_number": 10,
         "line_length": 98,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "prices for information resources, the widest accessibility and the most favourable contracts. A budget of",
@@ -4790,8 +4452,7 @@
         "page_number": 10,
         "line_length": 105,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "this nature will ensure a core digital collection of sufficient scope and coverage to address a substantial",
@@ -4804,8 +4465,7 @@
         "page_number": 10,
         "line_length": 107,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "amount of the wide and diverse information and learning needs of the citizens of Ontario (an overview",
@@ -4818,8 +4478,7 @@
         "page_number": 10,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "of the nature of the ODL digital collection is appended). The proposed ODL expenditures in 2006",
@@ -4832,8 +4491,7 @@
         "page_number": 10,
         "line_length": 95,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "represent an investment of $5.00 per citizen.",
@@ -4846,8 +4504,7 @@
         "page_number": 10,
         "line_length": 45,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 1.3
+        "line_case": "LOWER"
       },
       {
         "text": "It is important to recognize that every new dollar per citizen invested in the Ontario Digital Library has a",
@@ -4860,8 +4517,7 @@
         "page_number": 10,
         "line_length": 108,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "double benefit: it supports a province-wide library of high quality information resources and it",
@@ -4874,8 +4530,7 @@
         "page_number": 10,
         "line_length": 96,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "strengthens every local library in Ontario by allowing them to reinvest existing dollars in new resources",
@@ -4888,8 +4543,7 @@
         "page_number": 10,
         "line_length": 105,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "that enhance local services. This multiplier means that for every dollar invested in ODL the return",
@@ -4902,8 +4556,7 @@
         "page_number": 10,
         "line_length": 99,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "on investment is worth $2 of value for Ontario.",
@@ -4916,8 +4569,7 @@
         "page_number": 10,
         "line_length": 47,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       },
       {
         "text": "10 10",
@@ -4930,8 +4582,7 @@
         "page_number": 10,
         "line_length": 5,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "10 10",
@@ -4944,8 +4595,7 @@
         "page_number": 10,
         "line_length": 5,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -4958,8 +4608,7 @@
         "page_number": 10,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -4977,8 +4626,7 @@
         "page_number": 11,
         "line_length": 53,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "1. Preamble",
@@ -4991,8 +4639,7 @@
         "page_number": 11,
         "line_length": 11,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 4.3999999999999995
+        "line_case": "TITLE"
       },
       {
         "text": "Implementation of the Ontario Digital Library (ODL) requires a detailed business plan to be developed",
@@ -5005,8 +4652,7 @@
         "page_number": 11,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "and supported by its diverse stakeholder communities (see: www.odl.on.ca ).  The business",
@@ -5019,8 +4665,7 @@
         "page_number": 11,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "development planning and commitment process will be overseen by a Steering Committee, who are",
@@ -5033,8 +4678,7 @@
         "page_number": 11,
         "line_length": 93,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "accountable to potential ODL funders including  the Province of Ontario.",
@@ -5047,8 +4691,7 @@
         "page_number": 11,
         "line_length": 72,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "2. Terms of Reference",
@@ -5061,8 +4704,7 @@
         "page_number": 11,
         "line_length": 21,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 3.5
+        "line_case": "MIXED"
       },
       {
         "text": "In broad terms, the ODL Business Plan Steering Committee is responsible for development of the",
@@ -5075,8 +4717,7 @@
         "page_number": 11,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "business plan, securing sector support, and management of the planners and process.  Specific",
@@ -5089,8 +4730,7 @@
         "page_number": 11,
         "line_length": 93,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "responsibilities include:",
@@ -5103,8 +4743,7 @@
         "page_number": 11,
         "line_length": 25,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 1.0
+        "line_case": "LOWER"
       },
       {
         "text": "2.1 developing a detailed business plan for the three-year implementation phase of the ODL, including",
@@ -5117,8 +4756,7 @@
         "page_number": 11,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.0
+        "line_case": "MIXED"
       },
       {
         "text": "governance, management, funding model and structure, organizational structure, marketing,",
@@ -5131,8 +4769,7 @@
         "page_number": 11,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "staffing, and evaluation;",
@@ -5145,8 +4782,7 @@
         "page_number": 11,
         "line_length": 25,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "2.2 consulting with and reporting to stakeholder communities, to ensure open, consistent and two-way",
@@ -5159,8 +4795,7 @@
         "page_number": 11,
         "line_length": 100,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 2.0
+        "line_case": "LOWER"
       },
       {
         "text": "communication, and to ensure meaningful opportunities for stakeholder input into decision-",
@@ -5173,8 +4808,7 @@
         "page_number": 11,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "making;",
@@ -5187,8 +4821,7 @@
         "page_number": 11,
         "line_length": 7,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "2.3 recruiting and managing the business planner(s);",
@@ -5201,8 +4834,7 @@
         "page_number": 11,
         "line_length": 52,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 2.5
+        "line_case": "LOWER"
       },
       {
         "text": "2.4 defining terms of reference and resource parameters for business planner(s), and authorizing",
@@ -5215,8 +4847,7 @@
         "page_number": 11,
         "line_length": 96,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 2.0
+        "line_case": "LOWER"
       },
       {
         "text": "expenditures;",
@@ -5229,8 +4860,7 @@
         "page_number": 11,
         "line_length": 13,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "2.5 serving as a focus group for business planner(s) to test ideas;",
@@ -5243,8 +4873,7 @@
         "page_number": 11,
         "line_length": 67,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 2.0
+        "line_case": "LOWER"
       },
       {
         "text": "2.6 providing signoff for business planner(s) at key decision points of business plan development;",
@@ -5257,8 +4886,7 @@
         "page_number": 11,
         "line_length": 98,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 2.0
+        "line_case": "LOWER"
       },
       {
         "text": "2.7 securing commitment from library, government, and institutional stakeholders for implementation",
@@ -5271,8 +4899,7 @@
         "page_number": 11,
         "line_length": 99,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 2.0
+        "line_case": "LOWER"
       },
       {
         "text": "of the business plan;",
@@ -5285,8 +4912,7 @@
         "page_number": 11,
         "line_length": 21,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "2.8 presenting the business plan to funders",
@@ -5299,8 +4925,7 @@
         "page_number": 11,
         "line_length": 43,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 2.5
+        "line_case": "LOWER"
       },
       {
         "text": "2.9 undertaking advocacy efforts to promote the ODL to the broader communities including library",
@@ -5313,8 +4938,7 @@
         "page_number": 11,
         "line_length": 96,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.0
+        "line_case": "MIXED"
       },
       {
         "text": "and education communities.",
@@ -5327,8 +4951,7 @@
         "page_number": 11,
         "line_length": 26,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "3. Membership",
@@ -5341,8 +4964,7 @@
         "page_number": 11,
         "line_length": 13,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 4.1
+        "line_case": "TITLE"
       },
       {
         "text": "Each of the four sectors, Schools, Colleges, Universities, and Public Libraries can appoint up to two",
@@ -5355,8 +4977,7 @@
         "page_number": 11,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "representatives to the steering committee",
@@ -5369,8 +4990,7 @@
         "page_number": 11,
         "line_length": 41,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "3.1 Schools:",
@@ -5383,8 +5003,7 @@
         "page_number": 11,
         "line_length": 12,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 4.1
+        "line_case": "TITLE"
       },
       {
         "text": "- Ontario School Library Association (OSLA) and The Association of Library Consultants and",
@@ -5397,8 +5016,7 @@
         "page_number": 11,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Coordinators of Ontario (TALCO)  ( Executive Council of OSLA to name representative in",
@@ -5411,8 +5029,7 @@
         "page_number": 11,
         "line_length": 86,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "consultation with TALCO )",
@@ -5425,8 +5042,7 @@
         "page_number": 11,
         "line_length": 25,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "3.2 Universities:",
@@ -5439,8 +5055,7 @@
         "page_number": 11,
         "line_length": 17,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 4.1
+        "line_case": "TITLE"
       },
       {
         "text": "- Ontario Council of University Libraries (OCUL) ( OCUL to name )",
@@ -5453,8 +5068,7 @@
         "page_number": 11,
         "line_length": 65,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "3.3 Colleges:",
@@ -5467,8 +5081,7 @@
         "page_number": 11,
         "line_length": 13,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 4.1
+        "line_case": "TITLE"
       },
       {
         "text": "- Bibliocentre, and Heads of Libraries and Learning Resources (UAG and HLLR to name )",
@@ -5481,8 +5094,7 @@
         "page_number": 11,
         "line_length": 85,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "3.4 Public libraries:",
@@ -5495,8 +5107,7 @@
         "page_number": 11,
         "line_length": 21,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 3.5
+        "line_case": "MIXED"
       },
       {
         "text": "- Administrators of Medium-sized Public Libraries of Ontario (AMPLO), Administrators of Rural",
@@ -5509,8 +5120,7 @@
         "page_number": 11,
         "line_length": 93,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Urban Public Libraries of Ontario (ARUPLO), Administrators of Small Public Libraries of",
@@ -5523,8 +5133,7 @@
         "page_number": 11,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Ontario (ASPLO) and Chief Executives of Large-sized Public Libraries of Ontario (CELPLO)",
@@ -5537,8 +5146,7 @@
         "page_number": 11,
         "line_length": 88,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "( Executives of AMPLO, ARUPLO, ASPLO and CELPLO to name )",
@@ -5551,8 +5159,7 @@
         "page_number": 11,
         "line_length": 57,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "11 11",
@@ -5565,8 +5172,7 @@
         "page_number": 11,
         "line_length": 5,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "11 11",
@@ -5579,8 +5185,7 @@
         "page_number": 11,
         "line_length": 5,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -5593,8 +5198,7 @@
         "page_number": 11,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -5612,8 +5216,7 @@
         "page_number": 12,
         "line_length": 98,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.5999999999999996
+        "line_case": "MIXED"
       },
       {
         "text": "- Role of the OLA ex-officio member: To act as a liaison between the steering committee and",
@@ -5626,8 +5229,7 @@
         "page_number": 12,
         "line_length": 91,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "the OLA Board, and to assist the chair with the administrative responsibilities connected with",
@@ -5640,8 +5242,7 @@
         "page_number": 12,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "the preparation of the business plan, finance, and communications.",
@@ -5654,8 +5255,7 @@
         "page_number": 12,
         "line_length": 66,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "3.6 It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its",
@@ -5668,8 +5268,7 @@
         "page_number": 12,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "discretion, call on invited experts to advise on issues as required.",
@@ -5682,8 +5281,7 @@
         "page_number": 12,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "4. Appointment Criteria and Process",
@@ -5696,8 +5294,7 @@
         "page_number": 12,
         "line_length": 35,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 3.8
+        "line_case": "MIXED"
       },
       {
         "text": "4.1 Groups and organizations named in Section 3 above are responsible for appointing up to two",
@@ -5710,8 +5307,7 @@
         "page_number": 12,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 3.0
+        "line_case": "MIXED"
       },
       {
         "text": "representatives to the Steering Committee.",
@@ -5724,8 +5320,7 @@
         "page_number": 12,
         "line_length": 42,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "4.2 Desired characteristics for steering committee appointees include:",
@@ -5738,8 +5333,7 @@
         "page_number": 12,
         "line_length": 70,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 3.0
+        "line_case": "MIXED"
       },
       {
         "text": "•",
@@ -5752,8 +5346,7 @@
         "page_number": 12,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Strategic thinkers;",
@@ -5766,8 +5359,7 @@
         "page_number": 12,
         "line_length": 19,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "•",
@@ -5780,8 +5372,7 @@
         "page_number": 12,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Committed to the concept of multi-sector partnerships;",
@@ -5794,8 +5385,7 @@
         "page_number": 12,
         "line_length": 54,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "•",
@@ -5808,8 +5398,7 @@
         "page_number": 12,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Knowledgeable about digital libraries and resources;",
@@ -5822,8 +5411,7 @@
         "page_number": 12,
         "line_length": 52,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "•",
@@ -5836,8 +5424,7 @@
         "page_number": 12,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Knowledgeable about government structures;",
@@ -5850,8 +5437,7 @@
         "page_number": 12,
         "line_length": 42,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "•",
@@ -5864,8 +5450,7 @@
         "page_number": 12,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Respected by their communities; influential;",
@@ -5878,8 +5463,7 @@
         "page_number": 12,
         "line_length": 44,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "•",
@@ -5892,8 +5476,7 @@
         "page_number": 12,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Able to take a consultative approach;",
@@ -5906,8 +5489,7 @@
         "page_number": 12,
         "line_length": 37,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": "•",
@@ -5920,8 +5502,7 @@
         "page_number": 12,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Able to devote time to Steering Committee business: approximately one day per month for",
@@ -5934,8 +5515,7 @@
         "page_number": 12,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.0
+        "line_case": "MIXED"
       },
       {
         "text": ".",
@@ -5948,8 +5528,7 @@
         "page_number": 12,
         "line_length": 1,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.5
+        "line_case": "MIXED"
       },
       {
         "text": "meetings plus 2-3 working days per month on related activities",
@@ -5962,8 +5541,7 @@
         "page_number": 12,
         "line_length": 62,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "5. Term",
@@ -5976,8 +5554,7 @@
         "page_number": 12,
         "line_length": 7,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 4.1
+        "line_case": "TITLE"
       },
       {
         "text": "Expected term on the Steering Committee is the time required to complete development of the",
@@ -5990,8 +5567,7 @@
         "page_number": 12,
         "line_length": 91,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "business plan plus two months. This process is expected to take approximately 6 months.",
@@ -6004,8 +5580,7 @@
         "page_number": 12,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "6. Chair",
@@ -6018,8 +5593,7 @@
         "page_number": 12,
         "line_length": 8,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 4.1
+        "line_case": "TITLE"
       },
       {
         "text": "Chair will be appointed by the Board of the Ontario Library Association.",
@@ -6032,8 +5606,7 @@
         "page_number": 12,
         "line_length": 72,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "Role of the Chair:",
@@ -6046,8 +5619,7 @@
         "page_number": 12,
         "line_length": 18,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.0
+        "line_case": "MIXED"
       },
       {
         "text": "In addition to the characteristics for appointees (4.2) the role of the chair will be as a process agent",
@@ -6060,8 +5632,7 @@
         "page_number": 12,
         "line_length": 104,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "working with the selected consultant(s), OLA, and the Steering Committee to prepare the business",
@@ -6074,8 +5645,7 @@
         "page_number": 12,
         "line_length": 96,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "plan. The chair must be able to devote 5-8 days per month on activities related to the preparation of",
@@ -6088,8 +5658,7 @@
         "page_number": 12,
         "line_length": 101,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "the business plan, and communications to stakeholders, funders, and government.",
@@ -6102,8 +5671,7 @@
         "page_number": 12,
         "line_length": 79,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "7. Meetings",
@@ -6116,8 +5684,7 @@
         "page_number": 12,
         "line_length": 11,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 4.1
+        "line_case": "TITLE"
       },
       {
         "text": "It is expected that in person meetings are held once per month and the majority of business will be",
@@ -6130,8 +5697,7 @@
         "page_number": 12,
         "line_length": 99,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "conducted by e-mail, and teleconference.",
@@ -6144,8 +5710,7 @@
         "page_number": 12,
         "line_length": 40,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "8. Lines of Accountability and Communication",
@@ -6158,8 +5723,7 @@
         "page_number": 12,
         "line_length": 44,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 3.5
+        "line_case": "MIXED"
       },
       {
         "text": "8.1 The Steering Committee is accountable to the Province of Ontario, and to its business plan",
@@ -6172,8 +5736,7 @@
         "page_number": 12,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.0
+        "line_case": "MIXED"
       },
       {
         "text": "funders.",
@@ -6186,8 +5749,7 @@
         "page_number": 12,
         "line_length": 8,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "8.2 The role of the Ontario Library Association is to assume responsibility for  funds contributed by the",
@@ -6200,8 +5762,7 @@
         "page_number": 12,
         "line_length": 105,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.0
+        "line_case": "MIXED"
       },
       {
         "text": "ODL funders to finance the business plan, to hold the funds in a separate account, and",
@@ -6214,8 +5775,7 @@
         "page_number": 12,
         "line_length": 86,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "disperse them for purposes as  directed by the Steering Committee. OLA will provide",
@@ -6228,8 +5788,7 @@
         "page_number": 12,
         "line_length": 83,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "financial reports to the Steering Committee as requested and shall comply with all",
@@ -6242,8 +5801,7 @@
         "page_number": 12,
         "line_length": 82,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "government reporting regulations for funds received.",
@@ -6256,8 +5814,7 @@
         "page_number": 12,
         "line_length": 52,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "12 12",
@@ -6270,8 +5827,7 @@
         "page_number": 12,
         "line_length": 5,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "12 12",
@@ -6284,8 +5840,7 @@
         "page_number": 12,
         "line_length": 5,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -6298,8 +5853,7 @@
         "page_number": 12,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -6317,8 +5871,7 @@
         "page_number": 13,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "ongoing communications and consultation on issues and progress.  The Steering committee",
@@ -6331,8 +5884,7 @@
         "page_number": 13,
         "line_length": 87,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "is responsible for strong liaison with government particularly the Chief Information Officer",
@@ -6345,8 +5897,7 @@
         "page_number": 13,
         "line_length": 92,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "Community Services Cluster, ADM’s and Deputy Ministers.",
@@ -6359,8 +5910,7 @@
         "page_number": 13,
         "line_length": 55,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "9. Financial and Administrative Policies",
@@ -6373,8 +5923,7 @@
         "page_number": 13,
         "line_length": 40,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 3.8
+        "line_case": "MIXED"
       },
       {
         "text": "9.1 Service on the Steering Committee is non-remunerative",
@@ -6387,8 +5936,7 @@
         "page_number": 13,
         "line_length": 57,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.8
+        "line_case": "MIXED"
       },
       {
         "text": "9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the",
@@ -6401,8 +5949,7 @@
         "page_number": 13,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.3
+        "line_case": "MIXED"
       },
       {
         "text": "policies of the Ontario Library Association",
@@ -6415,8 +5962,7 @@
         "page_number": 13,
         "line_length": 43,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "9.3 Conflict of Interest:",
@@ -6429,8 +5975,7 @@
         "page_number": 13,
         "line_length": 25,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 3.8
+        "line_case": "MIXED"
       },
       {
         "text": "The ODL Steering Committee will function according to standard conflict of interest guidelines",
@@ -6443,8 +5988,7 @@
         "page_number": 13,
         "line_length": 94,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "ensuring that members,  their immediate family members, or their places of employment, will",
@@ -6457,8 +6001,7 @@
         "page_number": 13,
         "line_length": 91,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "not benefit financially from the decisions  the Steering Committee might make. As a first",
@@ -6471,8 +6014,7 @@
         "page_number": 13,
         "line_length": 89,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "order of business, the Steering Committee will be expected to adopt a conflict of interest policy",
@@ -6485,8 +6027,7 @@
         "page_number": 13,
         "line_length": 97,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.5
+        "line_case": "MIXED"
       },
       {
         "text": "statement and procedural guidelines that will govern its work.",
@@ -6499,8 +6040,7 @@
         "page_number": 13,
         "line_length": 62,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "13 13",
@@ -6513,8 +6053,7 @@
         "page_number": 13,
         "line_length": 5,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "13 13",
@@ -6527,8 +6066,7 @@
         "page_number": 13,
         "line_length": 5,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -6541,8 +6079,7 @@
         "page_number": 13,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   },
@@ -6560,8 +6097,7 @@
         "page_number": 14,
         "line_length": 49,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.8
+        "line_case": "MIXED"
       },
       {
         "text": "The purpose of the ODL is to provide equal access to information for all Ontario citizens through",
@@ -6574,8 +6110,7 @@
         "page_number": 14,
         "line_length": 97,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "collaboration and resource sharing. ODL will be a portal - capable of customization as",
@@ -6588,8 +6123,7 @@
         "page_number": 14,
         "line_length": 86,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "a home page for local libraries - to organized, comprehensive, authoritative and validated",
@@ -6602,8 +6136,7 @@
         "page_number": 14,
         "line_length": 90,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.2
+        "line_case": "LOWER"
       },
       {
         "text": "e-information resources to meet the needs of all Ontario citizens at all stages and in all aspects",
@@ -6616,8 +6149,7 @@
         "page_number": 14,
         "line_length": 98,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": -0.2
+        "line_case": "MIXED"
       },
       {
         "text": "of their education, life and work. Some examples:",
@@ -6630,8 +6162,7 @@
         "page_number": 14,
         "line_length": 49,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       },
       {
         "text": "1. Reference Resources",
@@ -6644,8 +6175,7 @@
         "page_number": 14,
         "line_length": 22,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 3.1
+        "line_case": "TITLE"
       },
       {
         "text": "- directories: companies, associations, organizations, governments, educational institutions,",
@@ -6658,8 +6188,7 @@
         "page_number": 14,
         "line_length": 93,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "etc. etc.",
@@ -6672,8 +6201,7 @@
         "page_number": 14,
         "line_length": 9,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- almanacs, country information",
@@ -6686,8 +6214,7 @@
         "page_number": 14,
         "line_length": 31,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- dictionaries, thesauri, encyclopedias",
@@ -6700,8 +6227,7 @@
         "page_number": 14,
         "line_length": 39,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-consumer information",
@@ -6714,8 +6240,7 @@
         "page_number": 14,
         "line_length": 21,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- phone books,",
@@ -6728,8 +6253,7 @@
         "page_number": 14,
         "line_length": 14,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- travel guides, entertainment guides",
@@ -6742,8 +6266,7 @@
         "page_number": 14,
         "line_length": 37,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- weather information",
@@ -6756,8 +6279,7 @@
         "page_number": 14,
         "line_length": 21,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- media/newspapers",
@@ -6770,8 +6292,7 @@
         "page_number": 14,
         "line_length": 18,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- leisure time, recreational activity guides",
@@ -6784,8 +6305,7 @@
         "page_number": 14,
         "line_length": 44,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- indexing and abstracting services",
@@ -6798,8 +6318,7 @@
         "page_number": 14,
         "line_length": 35,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- currency converters,",
@@ -6812,8 +6331,7 @@
         "page_number": 14,
         "line_length": 22,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- virtual reference services",
@@ -6826,8 +6344,7 @@
         "page_number": 14,
         "line_length": 28,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-vocational/career information",
@@ -6840,8 +6357,7 @@
         "page_number": 14,
         "line_length": 30,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-internet search engines",
@@ -6854,8 +6370,7 @@
         "page_number": 14,
         "line_length": 24,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-current awareness services",
@@ -6868,8 +6383,7 @@
         "page_number": 14,
         "line_length": 27,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "2. Subject Guides",
@@ -6882,8 +6396,7 @@
         "page_number": 14,
         "line_length": 17,
         "is_centered": false,
-        "line_case": "TITLE",
-        "heading_score": 3.1
+        "line_case": "TITLE"
       },
       {
         "text": "-arts and humanities",
@@ -6896,8 +6409,7 @@
         "page_number": 14,
         "line_length": 20,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- business and economics",
@@ -6910,8 +6422,7 @@
         "page_number": 14,
         "line_length": 24,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "- education",
@@ -6924,8 +6435,7 @@
         "page_number": 14,
         "line_length": 11,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-recreation and sports",
@@ -6938,8 +6448,7 @@
         "page_number": 14,
         "line_length": 22,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-entertainment - games, activities for kids",
@@ -6952,8 +6461,7 @@
         "page_number": 14,
         "line_length": 43,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-health information",
@@ -6966,8 +6474,7 @@
         "page_number": 14,
         "line_length": 19,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-science and technology",
@@ -6980,8 +6487,7 @@
         "page_number": 14,
         "line_length": 23,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-social sciences",
@@ -6994,8 +6500,7 @@
         "page_number": 14,
         "line_length": 16,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-society and culture",
@@ -7008,8 +6513,7 @@
         "page_number": 14,
         "line_length": 20,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "3. Educational tool-kits",
@@ -7022,8 +6526,7 @@
         "page_number": 14,
         "line_length": 24,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.5
+        "line_case": "MIXED"
       },
       {
         "text": "-guides to information gathering methodologies, information literacy",
@@ -7036,8 +6539,7 @@
         "page_number": 14,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": -0.5
+        "line_case": "LOWER"
       },
       {
         "text": "-study guides",
@@ -7050,8 +6552,7 @@
         "page_number": 14,
         "line_length": 13,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-study skill development",
@@ -7064,8 +6565,7 @@
         "page_number": 14,
         "line_length": 24,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-web-based curricula",
@@ -7078,8 +6578,7 @@
         "page_number": 14,
         "line_length": 20,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "-internet search guides",
@@ -7092,8 +6591,7 @@
         "page_number": 14,
         "line_length": 23,
         "is_centered": false,
-        "line_case": "LOWER",
-        "heading_score": 0.0
+        "line_case": "LOWER"
       },
       {
         "text": "4. Journals, books, maps, music etc.",
@@ -7106,8 +6604,7 @@
         "page_number": 14,
         "line_length": 36,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 2.5
+        "line_case": "MIXED"
       },
       {
         "text": "14 14",
@@ -7120,8 +6617,7 @@
         "page_number": 14,
         "line_length": 5,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "14 14",
@@ -7134,8 +6630,7 @@
         "page_number": 14,
         "line_length": 5,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 0.30000000000000004
+        "line_case": "MIXED"
       },
       {
         "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
@@ -7148,8 +6643,7 @@
         "page_number": 14,
         "line_length": 68,
         "is_centered": false,
-        "line_case": "MIXED",
-        "heading_score": 1.3
+        "line_case": "MIXED"
       }
     ]
   }
