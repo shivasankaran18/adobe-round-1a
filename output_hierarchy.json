@@ -1,265 +1,70 @@
 {
-  "title": "",
+  "title": "extracted_cleaned_lines",
   "outline": [
     {
       "level": "H1",
-      "text": "What\u2019s the best way to create a PDF?",
+      "text": "Ontario\u2019s Digital Library",
       "page": 2
     },
     {
       "level": "H2",
-      "text": "Convert a file to PDF using Acrobat menu",
-      "page": 7
+      "text": "A Critical Component for Implementing Ontario\u2019s Road Map to",
+      "page": 2
     },
     {
       "level": "H2",
-      "text": "commands",
+      "text": "Prosperity Strategy",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Summary",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Background",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The Business Plan to be Developed",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Milestones",
       "page": 7
     },
     {
       "level": "H3",
-      "text": "Convert a file to PDF using the Convert to PDF tool",
-      "page": 9
+      "text": "Approach and Specific Proposal Requirements",
+      "page": 7
     },
     {
-      "level": "H4",
-      "text": "All tools Convert to PDF",
-      "page": 9
+      "level": "H3",
+      "text": "Evaluation and Awarding of Contract",
+      "page": 8
     },
     {
-      "level": "H4",
-      "text": "Open",
-      "page": 9
-    },
-    {
-      "level": "H4",
-      "text": "Save Save As File Save File Save As",
+      "level": "H3",
+      "text": "Appendix A:  ODL Envisioned Phases & Funding",
       "page": 9
     },
     {
       "level": "H3",
-      "text": "Drag-and-drop to create PDFs",
-      "page": 9
-    },
-    {
-      "level": "H4",
-      "text": "Note:",
-      "page": 9
-    },
-    {
-      "level": "H4",
-      "text": "Note:",
-      "page": 10
-    },
-    {
-      "level": "H4",
-      "text": "Windows Explorer Convert",
-      "page": 10
-    },
-    {
-      "level": "H4",
-      "text": "to Adobe PDF",
+      "text": "Funding Source 2007 2017",
       "page": 10
     },
     {
       "level": "H3",
-      "text": "Convert clipboard content to PDF",
-      "page": 10
-    },
-    {
-      "level": "H4",
-      "text": "PrintScreen",
-      "page": 10
-    },
-    {
-      "level": "H4",
-      "text": "Applications Utilities Screenshot",
-      "page": 10
-    },
-    {
-      "level": "H4",
-      "text": "Edit Copy",
-      "page": 10
-    },
-    {
-      "level": "H4",
-      "text": "All",
-      "page": 10
-    },
-    {
-      "level": "H4",
-      "text": "tools Use print production Edit object",
-      "page": 10
-    },
-    {
-      "level": "H4",
-      "text": "Create Clipboard Create All tools Create a",
-      "page": 10
-    },
-    {
-      "level": "H4",
-      "text": "PDF Clipboard Create",
-      "page": 10
-    },
-    {
-      "level": "H4",
-      "text": "Note:",
-      "page": 10
+      "text": "Appendix B: ODL Steering Committee Terms of Reference",
+      "page": 11
     },
     {
       "level": "H3",
-      "text": "Create a blank PDF",
-      "page": 11
-    },
-    {
-      "level": "H4",
-      "text": "Microsoft Word",
-      "page": 11
-    },
-    {
-      "level": "H4",
-      "text": "Do any of the following:",
-      "page": 11
-    },
-    {
-      "level": "H4",
-      "text": "Create",
-      "page": 11
-    },
-    {
-      "level": "H4",
-      "text": "Blank page Create",
-      "page": 11
-    },
-    {
-      "level": "H4",
-      "text": "Create Blank Page",
-      "page": 11
-    },
-    {
-      "level": "H4",
-      "text": "File Create Blank Page",
-      "page": 11
-    },
-    {
-      "level": "H4",
-      "text": "Note:",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "Edit Organize",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "pages Insert Blank page",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "Create multiple PDFs from multiple files",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "Note",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "Create",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "Mul \u019fple \ufb01les Create mul \u019fple",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "PDF \ufb01les Next",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "Add Files Add Files Add Folders",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "OK",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "Output Op \u019fons",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "OK",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "About Acrobat PDFMaker",
-      "page": 12
-    },
-    {
-      "level": "H4",
-      "text": "Note:",
-      "page": 12
-    },
-    {
-      "level": "H1",
-      "text": "Using Create PDF cloud service for PDF",
-      "page": 13
-    },
-    {
-      "level": "H1",
-      "text": "conversion",
-      "page": 13
-    },
-    {
-      "level": "H1",
-      "text": "Convert a file to PDF using PDFMaker",
+      "text": "Appendix C: ODL\u2019s Envisioned Electronic Resources",
       "page": 14
-    },
-    {
-      "level": "H1",
-      "text": "View PDFMaker conversion settings",
-      "page": 20
-    },
-    {
-      "level": "H1",
-      "text": "Convert Microsoft Word, PowerPoint, and",
-      "page": 22
-    },
-    {
-      "level": "H1",
-      "text": "Excel files to PDF",
-      "page": 22
-    },
-    {
-      "level": "H1",
-      "text": "Convert email messages to PDFs",
-      "page": 23
-    },
-    {
-      "level": "H1",
-      "text": "Set up automatic email archiving",
-      "page": 26
-    },
-    {
-      "level": "H1",
-      "text": "Create PDFs from Word mail merges",
-      "page": 27
-    },
-    {
-      "level": "H1",
-      "text": "Convert Visio files to PDF (Acrobat Pro)",
-      "page": 29
     }
   ]
 }

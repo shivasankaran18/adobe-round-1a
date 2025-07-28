@@ -19,17 +19,6 @@ def detect_line_case(text):
     else:
         return "MIXED"
 
-def has_special_prefix(text):
-    text = text.strip()
-    patterns = [
-        r"^(\d+[\.\)])+",             # 1. 1.1. 2.2.3)
-        r"^[IVXLCDM]+\.",             # Roman numerals like I. II. III.
-        r"^[A-Z]\.",                  # A. B. C.
-        r"^[-–•:]",                   # Bullet, dash, colon
-        r"^(Section|Chapter|Article)\b"  # Keywords
-    ]
-    return any(re.match(p, text, re.IGNORECASE) for p in patterns)
-
 def is_centered(x, page_width=595.0, tolerance=50):
     center = page_width / 2
     return abs(x - center) < tolerance
@@ -74,7 +63,7 @@ def extract_pdf_lines_cleaned_and_merged(pdf_path):
             x = min([s["position_x"] for s in line_spans])
             y = y_key
 
-            page_lines.append({
+            line_dict = {
                 "text": merged_text,
                 "font_size": max(font_sizes) if font_sizes else None,
                 "font_name": fonts[0] if fonts else None,
@@ -85,11 +74,10 @@ def extract_pdf_lines_cleaned_and_merged(pdf_path):
                 "page_number": page_num + 1,
                 "line_length": len(merged_text),
                 "is_centered": is_centered(x),
-                "line_case": detect_line_case(merged_text),
-                "has_special_prefix": has_special_prefix(merged_text)
-            })
-            print(merged_text)
-            print(has_special_prefix(merged_text))
+                "line_case": detect_line_case(merged_text)
+            }
+
+            page_lines.append(line_dict)
 
         pages_data.append({
             "page_number": page_num + 1,
@@ -99,7 +87,8 @@ def extract_pdf_lines_cleaned_and_merged(pdf_path):
     return pages_data
 
 if __name__ == "__main__":
-    pdf_path = "Adobe-India-Hackathon25/Challenge_1b/Collection 2/PDFs/Learn Acrobat - Create and Convert_1.pdf"
+    pdf_path = "Adobe-India-Hackathon25/Challenge_1a/sample_dataset/pdfs/file03.pdf"
+
     output_path = "extracted_cleaned_lines.json"
     extracted_data = extract_pdf_lines_cleaned_and_merged(pdf_path)
     with open(output_path, "w", encoding="utf-8") as f:
