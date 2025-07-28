@@ -1,96 +1,101 @@
-# Adobe Hackathon – Round 1A  
-### Structural Hierarchical Inference from Document Layouts
+# Adobe Hackathon - Round 1B: Persona-Based Document Intelligence
 
 ---
 
-## Problem Statement
+## Challenge Goal
 
-The task is to infer a structured, hierarchical outline from a multi-page PDF document (up to 50 pages). The goal is to extract:
-
-- The document's **title** (from the first page)
-- A **nested heading hierarchy** (up to three levels: H1 → H2 → H3)
-- The **page number** for each identified heading
-
-The system should deduce structure using layout, typography, and semantic signals—without relying on predefined styles or bookmarks.
+Given a persona and their task, automatically analyze a set of PDFs (3–10) and extract:
+- Most relevant sections with ranked importance
+- Sub-sections with refined summaries
 
 ---
 
-## Solution Overview
+## Use Case Example
 
-The pipeline is divided into four primary stages:
-
----
-
-### 1. Line Aggregation and Feature Extraction
-
-- Extract visible text spans from each page.
-- Merge adjacent spans based on vertical alignment to form line blocks.
-- For every line, extract features:
-  - Relative font size
-  - Font family/type classification
-  - Bold or Italic styling
-  - Horizontal alignment (e.g., centered)
-  - Text casing (e.g., UPPERCASE, Title Case)
-  - Character count and token length
-
-These metadata-enriched lines form the candidate pool for structural analysis.
+**Persona**: Investment Analyst  
+**Job-to-be-done**: "Analyze revenue trends, R&D investments, and market positioning strategies."  
+**Input**: 3 tech company financial reports  
+**Output**: Structured JSON with most relevant sections/subsections, ranked by importance.
 
 ---
 
-### 2. Heuristic Scoring for Heading Detection
+## Approach Overview
 
-Each line is scored based on its typographic and syntactic properties using a weighted heuristic system:
-
-| Attribute                            | Score |
-|--------------------------------------|-------|
-| Dominant relative font size          | +3    |
-| Bold or Italic styling               | +1    |
-| Center alignment                     | +1    |
-| Ends with terminal punctuation       | +1    |
-| Contains enumeration (e.g., 1., A.)  | +1    |
-| Title Case or UPPERCASE formatting   | +1    |
-| Concise length (< 100 characters)    | +1    |
-
-Lines that exceed a configurable threshold are treated as structural heading candidates.
+This solution combines the structured parsing pipeline from Round 1A with semantic similarity techniques and compact LLM-based summarization.
 
 ---
 
-### 3. Hierarchical Outline Construction
+### 1. PDF Preprocessing
 
-- Candidates are sorted by page and vertical position.
-- Font size clusters are analyzed to define heading levels:
-  - Largest → **H1**
-  - Next tier → **H2**
-  - Subsequent tier → **H3**
-- Recursively assign nested levels:
-  - H2 appears under the preceding H1
-  - H3 appears under the closest preceding H2
-- Headers lacking clear hierarchy are inserted at the nearest logical level
+- Leverage the existing Round 1A extractor to obtain:
+  - Document titles
+  - Headings (H1–H3)
+  - Associated paragraph-level content
 
 ---
 
-### 4. Structured Output Format
+### 2. Vector Embedding
 
-The extracted structure is serialized as follows:
+- Compute embeddings using Sentence Transformers for:
+  - Each heading and its corresponding content block
+  - The persona profile and job description
+
+---
+
+### 3. Semantic Matching
+
+- Use cosine similarity to score each section against the persona-job query
+- Generate a relevance ranking based on:
+  - Content-query alignment
+  - Contextual cues from headings and summaries
+
+---
+
+### 4. Refined Summarization
+
+- For top-ranked sections, generate summaries using a lightweight LLM (e.g., `phi-2`, `tiny-llama`)
+- Output includes:
+  - Clean, human-readable abstracts
+  - Compact, factual insights tailored to the persona’s goals
+
+---
+
+### 5. JSON Output Format
 
 ```json
 {
-  "title": "Document Title",
-  "outline": [
+  "metadata": {
+    "documents": ["company1.pdf", "company2.pdf", "company3.pdf"],
+    "persona": "Investment Analyst",
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies.",
+    "timestamp": "2025-07-28T14:00:00Z"
+  },
+  "section_rankings": [
     {
-      "level": "H1",
-      "text": "1. Introduction",
-      "page": 2
+      "document": "company1.pdf",
+      "page": 12,
+      "section_title": "Revenue Analysis",
+      "importance_rank": 1
     },
     {
-      "level": "H2",
-      "text": "1.1 Scope",
-      "page": 2
+      "document": "company2.pdf",
+      "page": 9,
+      "section_title": "Market Strategy Overview",
+      "importance_rank": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "company1.pdf",
+      "page": 12,
+      "section_title": "Revenue Analysis",
+      "refined_text": "Company revenue increased by 18% YoY, driven primarily by cloud service subscriptions."
     },
     {
-      "level": "H3",
-      "text": "1.1.1 Terminology",
-      "page": 3
+      "document": "company2.pdf",
+      "page": 9,
+      "section_title": "Market Strategy Overview",
+      "refined_text": "The company shifted its focus to emerging markets, improving share in APAC by 11%."
     }
   ]
 }
