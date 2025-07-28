@@ -1,101 +1,94 @@
-# Adobe Hackathon - Round 1B: Persona-Based Document Intelligence
+# Adobe Hackathon – Round 1A: Structural Hierarchical Inference from Document Layouts
 
 ---
 
-## Challenge Goal
+## Problem Statement
 
-Given a persona and their task, automatically analyze a set of PDFs (3–10) and extract:
-- Most relevant sections with ranked importance
-- Sub-sections with refined summaries
+This task involves the extraction of a precise hierarchical outline from a multi-page PDF document (up to 50 pages). The goal is to reconstruct the document’s latent structure by generating:
 
----
+- The document’s title
+- A nested heading architecture (up to three levels: H1 → H2 → H3)
+- Explicit page number references for each identified heading
 
-## Use Case Example
-
-**Persona**: Investment Analyst  
-**Job-to-be-done**: "Analyze revenue trends, R&D investments, and market positioning strategies."  
-**Input**: 3 tech company financial reports  
-**Output**: Structured JSON with most relevant sections/subsections, ranked by importance.
+The primary objective is to algorithmically infer a logical document outline grounded in typographic, geometric, and stylistic signals.
 
 ---
 
-## Approach Overview
+## Methodological Framework
 
-This solution combines the structured parsing pipeline from Round 1A with semantic similarity techniques and compact LLM-based summarization.
-
----
-
-### 1. PDF Preprocessing
-
-- Leverage the existing Round 1A extractor to obtain:
-  - Document titles
-  - Headings (H1–H3)
-  - Associated paragraph-level content
+The implemented pipeline synthesizes low-level layout data with semantic heuristics to infer a document’s structural hierarchy. It leverages layout geometry, visual typographic cues, and rule-based logic to systematically organize section headers.
 
 ---
 
-### 2. Vector Embedding
+### Stage 1: Visual Line Aggregation and Feature Extraction
 
-- Compute embeddings using Sentence Transformers for:
-  - Each heading and its corresponding content block
-  - The persona profile and job description
+- Extract and normalize visible text spans from the document.
+- Cluster spans based on vertical alignment to form logical line groups.
+- Merge adjacent spans to construct complete line blocks.
+- For each line, extract a comprehensive feature set:
+  - Relative font size
+  - Font family classification
+  - Bold/Italic presence
+  - Textual length
+  - Horizontal alignment (centered or not)
+  - Text case (UPPER, Title Case, etc.)
 
----
-
-### 3. Semantic Matching
-
-- Use cosine similarity to score each section against the persona-job query
-- Generate a relevance ranking based on:
-  - Content-query alignment
-  - Contextual cues from headings and summaries
-
----
-
-### 4. Refined Summarization
-
-- For top-ranked sections, generate summaries using a lightweight LLM (e.g., `phi-2`, `tiny-llama`)
-- Output includes:
-  - Clean, human-readable abstracts
-  - Compact, factual insights tailored to the persona’s goals
+Each line is transformed into a metadata-enriched candidate unit for structural analysis.
 
 ---
 
-### 5. JSON Output Format
+### Stage 2: Probabilistic Heuristic Scoring
+
+Lines are evaluated for their likelihood of being structural headings based on a weighted scoring schema derived from typographic and syntactic cues:
+
+| Attribute                              | Score Contribution |
+|----------------------------------------|--------------------|
+| Dominant font size (contextual)        | +3                 |
+| Bold or Italic typography              | +1                 |
+| Center alignment                       | +1                 |
+| Terminal punctuation (e.g., colon)     | +1                 |
+| Enumeration markers (e.g., 1., A., I.) | +1                 |
+| Title or UPPER case                    | +1                 |
+| Concise length (< 100 characters)      | +1                 |
+
+Any line that exceeds a configurable cumulative threshold is promoted as a likely section header, irrespective of relative font size.
+
+---
+
+### Stage 3: Recursive Hierarchy Construction
+
+- Sort candidate blocks by page order and vertical coordinates.
+- Analyze distribution of font sizes to identify tiered heading levels:
+  - H1 → Maximum font size category
+  - H2 → Next highest tier within H1 subranges
+  - H3 → Further subdivision within H2 partitions
+
+- Headings qualifying through heuristic scoring (but not font-based hierarchy) are embedded at the same hierarchical level but do not initiate recursive depth expansion.
+
+---
+
+### Stage 4: Structured Output Serialization
+
+The final document structure is emitted in a standardized JSON format:
 
 ```json
 {
-  "metadata": {
-    "documents": ["company1.pdf", "company2.pdf", "company3.pdf"],
-    "persona": "Investment Analyst",
-    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies.",
-    "timestamp": "2025-07-28T14:00:00Z"
-  },
-  "section_rankings": [
+  "title": "Document Title",
+  "outline": [
     {
-      "document": "company1.pdf",
-      "page": 12,
-      "section_title": "Revenue Analysis",
-      "importance_rank": 1
+      "level": "H1",
+      "text": "1. Introduction",
+      "page": 2
     },
     {
-      "document": "company2.pdf",
-      "page": 9,
-      "section_title": "Market Strategy Overview",
-      "importance_rank": 2
-    }
-  ],
-  "subsection_analysis": [
-    {
-      "document": "company1.pdf",
-      "page": 12,
-      "section_title": "Revenue Analysis",
-      "refined_text": "Company revenue increased by 18% YoY, driven primarily by cloud service subscriptions."
+      "level": "H2",
+      "text": "1.1 Scope",
+      "page": 2
     },
     {
-      "document": "company2.pdf",
-      "page": 9,
-      "section_title": "Market Strategy Overview",
-      "refined_text": "The company shifted its focus to emerging markets, improving share in APAC by 11%."
+      "level": "H3",
+      "text": "1.1.1 Terminology",
+      "page": 3
     }
   ]
 }
