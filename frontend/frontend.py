@@ -14,23 +14,16 @@ sys.path.append(str(parent_dir))
 
 try:
     from main import extract_pdf_lines_cleaned_and_merged
-    from outline_hierarchy import load_blocks, get_font_sizes, find_headings, extract_title_from_page1
-    
+    from outline_hierarchy import extract_outline_from_data
+
     def build_outline_hierarchy(extracted_data):
         try:
-            blocks = load_blocks(extracted_data)
-            if not blocks:
-                return {"title": "", "outline": []}
-            
-            font_sizes = get_font_sizes(blocks)
-            outline = find_headings(blocks, font_sizes, max_level=4)
-            title = extract_title_from_page1(extracted_data)
-            return {"title": title, "outline": outline}
+            return extract_outline_from_data(extracted_data)
         except Exception as e:
             return {"error": f"Hierarchy processing failed: {str(e)}"}
-            
+
     print(" Successfully imported PDF processing modules")
-    
+
 except ImportError as e:
     print(f" Warning: Could not import processing modules: {e}")
     def extract_pdf_lines_cleaned_and_merged(pdf_path):

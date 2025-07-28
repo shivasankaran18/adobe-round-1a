@@ -182,5 +182,24 @@ def extract_outline(parsed_json_path, output_path="output_hierarchy.json"):
     for level in sorted(level_counts.keys()):
         print(f"   {level}: {level_counts[level]} headings")
 
+def extract_outline_from_data(parsed_data, output_path=None):
+    """Extract hierarchical outline from parsed PDF data (in-memory version)."""
+    # Load blocks from pages 2 onwards
+    blocks = load_blocks(parsed_data)
+
+    if not blocks:
+        result = {"title": "", "outline": []}
+    else:
+        # Use filename as title if available, else fallback to page 1 title
+        title = extract_title_from_page1(parsed_data)
+        outline = find_headings_in_range(blocks, 0, len(blocks), level=1, max_level=3)
+        result = {"title": title, "outline": outline}
+
+    if output_path:
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(result, f, indent=2)
+
+    return result
+
 if __name__ == "__main__":
     extract_outline("extracted_cleaned_lines.json") 
