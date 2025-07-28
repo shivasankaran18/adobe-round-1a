@@ -1,2 +1,20 @@
 venv/
 __pycache__/
+
+# Docker
+.dockerignore
+
+# Temporary files
+*.pdf
+extracted_*.json
+output_*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
