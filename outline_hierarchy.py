@@ -29,6 +29,14 @@ def extract_title_from_page1(parsed_data):
             return block["text"].strip()
     return ""
 
+def get_filename_from_path(pdf_path):
+    """Extract filename without extension from PDF path"""
+    import os
+    filename = os.path.basename(pdf_path)
+    # Remove extension
+    name_without_ext = os.path.splitext(filename)[0]
+    return name_without_ext
+
 def is_likely_heading(block):
     """Determine if a block is likely to be a heading based on various criteria"""
     text = block["text"].strip()
@@ -151,44 +159,11 @@ def extract_outline(parsed_json_path, output_path="output_hierarchy.json"):
     if not blocks:
         result = {"title": "", "outline": []}
     else:
-        # Extract title from page 1 (optional)
-        title = extract_title_from_page1(parsed_data)
+        # Use filename as title
+        title = get_filename_from_path(parsed_json_path)
         
-        # Find headings using the new hierarchical algorithm
+        # Find headings using the hierarchical algorithm
         outline = find_headings_in_range(blocks, 0, len(blocks), level=1, max_level=3)
-        
-        # --- Add content between headings ---
-        # Build a list of (idx, heading_dict, level) for all headings
-        heading_locs = []
-        for i, block in enumerate(blocks):
-            for h in outline:
-                if (
-                    block["text"].strip() == h["text"].strip() and
-                    block["page"] == h["page"]
-                ):
-                    heading_locs.append((i, h, int(h["level"][1])))
-                    break
-        # Sort by block index
-        heading_locs.sort(key=lambda x: x[0])
-        # For each heading, find the next heading of same or higher level
-        for idx, (block_idx, heading, level) in enumerate(heading_locs):
-            # Find the next heading of same or higher level
-            next_idx = len(blocks)
-            for j in range(idx+1, len(heading_locs)):
-                next_block_idx, _, next_level = heading_locs[j]
-                if next_level <= level:
-                    next_idx = next_block_idx
-                    break
-            # Collect all non-heading text between block_idx+1 and next_idx
-            content_blocks = []
-            for b in blocks[block_idx+1:next_idx]:
-                # Only include if not a heading
-                if not any(
-                    b["text"].strip() == h["text"].strip() and b["page"] == h["page"]
-                    for _, h, _ in heading_locs
-                ):
-                    content_blocks.append(b["text"].strip())
-            heading["content"] = "\n".join(content_blocks).strip()
         
         result = {"title": title, "outline": outline}
     
@@ -203,6 +178,7 @@ def extract_outline(parsed_json_path, output_path="output_hierarchy.json"):
     for item in result['outline']:
         level_counts[item['level']] += 1
     
+    print("\n📈 Level Distribution:")
     for level in sorted(level_counts.keys()):
         print(f"   {level}: {level_counts[level]} headings")
 

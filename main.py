@@ -88,6 +88,7 @@ def extract_pdf_lines_cleaned_and_merged(pdf_path):
 
 if __name__ == "__main__":
     pdf_path = "Adobe-India-Hackathon25/Challenge_1a/sample_dataset/pdfs/file03.pdf"
+
     output_path = "extracted_cleaned_lines.json"
     extracted_data = extract_pdf_lines_cleaned_and_merged(pdf_path)
     with open(output_path, "w", encoding="utf-8") as f:
