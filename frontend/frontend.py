@@ -8,7 +8,6 @@ import tempfile
 import sys
 from pathlib import Path
 
-# Add parent directory to path to import modules
 parent_dir = Path(__file__).parent.parent
 sys.path.append(str(parent_dir))
 
@@ -22,10 +21,7 @@ try:
         except Exception as e:
             return {"error": f"Hierarchy processing failed: {str(e)}"}
 
-    print(" Successfully imported PDF processing modules")
-
 except ImportError as e:
-    print(f" Warning: Could not import processing modules: {e}")
     def extract_pdf_lines_cleaned_and_merged(pdf_path):
         return {"error": "PDF processing module not available", "file": pdf_path}
     
@@ -58,21 +54,14 @@ async def upload_file(request: Request, file: UploadFile = File(...)):
             temp_file.write(content)
             temp_file_path = temp_file.name
         
-        print(f" Processing PDF: {file.filename}")
-        
         extracted_data = extract_pdf_lines_cleaned_and_merged(temp_file_path)
         
         if isinstance(extracted_data, dict) and "error" in extracted_data:
             raise Exception(extracted_data["error"])
         
-        print(f" Extracted {len(extracted_data)} pages")
-        
         try:
             hierarchy_data = build_outline_hierarchy(extracted_data)
-            print(f" Built hierarchy: {len(hierarchy_data.get('outline', []))} items")
-            print(f" Hierarchy data: {hierarchy_data}")
         except Exception as e:
-            print(f" Hierarchy error: {e}")
             hierarchy_data = {"error": f"Hierarchy processing failed: {str(e)}"}
         
         os.unlink(temp_file_path)
@@ -90,8 +79,6 @@ async def upload_file(request: Request, file: UploadFile = File(...)):
             result_data["error"] = hierarchy_data["error"]
             result_data["raw_extracted_data"] = extracted_data
         
-        print(f"Final result data keys: {list(result_data.keys())}")
-        
         return templates.TemplateResponse("result_clean.html", {
             "request": request,
             "result": result_data,
@@ -105,8 +92,6 @@ async def upload_file(request: Request, file: UploadFile = File(...)):
                 os.unlink(temp_file_path)
             except:
                 pass
-        
-        print(f"Error processing {file.filename}: {e}")
         return templates.TemplateResponse("result_clean.html", {
             "request": request,
             "error": f"Error processing file: {str(e)}",
